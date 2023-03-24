@@ -1,2 +1,2 @@
-# nash-rna-seq-cell-reports-medicine
+# NASH RNA-seq Cell Reports Medicine
 NASH RNA-seq Cell Reports Medicine
